@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZyM3d4NXIzZDl4NHRydjFxOHk2eno0anVyNWltcWlxMmtsOHM3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZyM3d4NXIzZDl4NHRydjFxOHk2eno0anVyNWltcWlxMmtsOHM3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="400" />
     <h1 align="center">Hi 👋, I'm Álex</h1>
     <h3 align="center">A junior developer with a continuous desire to learn and improve.</h3>
 </div>
