@@ -3,7 +3,6 @@
     <h1 align="center">Hi 👋, I'm Álex</h1>
     <h3 align="center">A junior developer with a continuous desire to learn and improve.</h3>
 </div>
----
 
 ### 👨‍💻 About Me :
 
@@ -29,7 +28,7 @@
       </div>
 </div>
 
----
+
 
 ### 📊 My Stats :
 
