@@ -44,7 +44,7 @@
     <p></p>
     <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>  
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg"  title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg"  title="IntelliJ" alt="IntelliJ" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
        
 </div>
