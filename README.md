@@ -1,28 +1,43 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <h1 align="center">Hi 👋, I'm Carlos</h1>
+    <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
+</div>
+---
 
-## Sobre mí
+### 👨‍💻 About Me :
 
-Soy un consultor de transformación digital y gestión del cambio, especializado en la digitalización y mejora de procesos tanto industriales como administrativos. Con una sólida base en Ingeniería Electrónica y maestrías en Innovación y Lean Factory Management, mi pasión se centra en impulsar la eficiencia y la innovación a través de la tecnología.
+- 📝 I work as a full stack web developer
 
-Con experiencia en diversos sectores como el retail, industrial y corporativo, he liderado proyectos de transformación digital aplicando metodologías como Lean Office y Lean Manufacturing, complementadas con marcos de gestión del cambio como PROSCI y ADKAR.
+- 📫 How to reach me **carlos.develops@gmail.com**
 
-## Expertise
+- 🌱 I’m currently learning **React.js**
 
-- **Digitalización y Mejora de Procesos:** Implementación de soluciones tecnológicas para optimizar operaciones.
-- **Tecnología y IT:** Amplia experiencia en ERP, MES, RFID, tecnología móvil, entre otros.
-- **Programación y Herramientas Digitales:** Proficiencia en C, .Net, DAX, Power Query, SharePoint, Power Apps, Power Automate, etc.
 
-## Educación
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+</div>
 
-- Ingeniero Electrónico
-- Máster en Innovación
-- Máster en Lean Factory Management
+---
 
-## Proyectos y Contribuciones
+### 📊 My Stats :
 
-[Describir aquí algunos proyectos destacados o contribuciones específicas a proyectos, incluyendo enlaces a repositorios de GitHub si es posible.]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
 
-## Cómo conectarse conmigo
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
 
-Estoy siempre abierto a colaborar en proyectos que impulsen la transformación digital y la innovación. No dudes en [contactarme](tu-linkedin) para discutir cómo podemos trabajar juntos.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
