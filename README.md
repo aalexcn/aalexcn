@@ -56,8 +56,8 @@
 
 
 
-### 📊 My Stats :
+[### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aalexcn&theme=onedark)](https://git.io/streak-stats)
+/*[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aalexcn&theme=onedark)](https://git.io/streak-stats)*/
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aalexcn&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aalexcn&show_icons=true&theme=radical)]
