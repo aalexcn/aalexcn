@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **alex.cerqueira.03@gmail.com**
 
-- 🌱 I’m currently learning **Python & .NET 7**
+- 🌱 I’m currently learning **Python & IA**
 
 
 <div align="left">
